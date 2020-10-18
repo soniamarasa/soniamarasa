@@ -1,8 +1,8 @@
 <img src="/img/soniamarasa.png" />
 
 <center>
-<table >
-    <tr>
+<table width="100%">
+    <tr >
         <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniamarasa&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=soniamarasa&theme=buefy"/></td>
     </tr>   
