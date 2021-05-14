@@ -13,7 +13,7 @@
 
 # Olá 👋
 
-Meu nome é Sônia e sou formada em Engenharia civil desde 2017. Atualmente estou seguindo em uma nova área, Desenvolvimento web Front-End (estudando desde 2019), pois também sempre tive interesse por programação e estou gostando cada vez mais de aprofundar nesse ramo, mais especificamente javascript. 
+Meu nome é Sônia, sou formada em engenharia civil desde 2017 e atualmente estou seguindo em uma nova área, Desenvolvimento Web. Eu sempre tive interesse por programação também, mas acabei deixando de lado no passado. Recentemente(2019) começei meus estudos e estou gostando cada vez mais de me aprofundar nesse ramo, principalmente JavaScript. 
 
 Além de estudar, gosto muito de ouvir música, ler livros de diversos generos e assistir séries e filmes.
 
