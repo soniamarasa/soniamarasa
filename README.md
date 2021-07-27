@@ -13,7 +13,7 @@
 
 # Olá 👋
 
-Meu nome é Sônia, sou formada em engenharia civil e atualmente estou seguindo em uma nova área, Desenvolvimento Web. No passado, acabei deixando de lado o interesse que sempre tive por programação, mas em 2020 decidi fazer essa transição de carreira, na qual sigo estudando e aprofundando cada vez mais meus conhecimentos. Eu realmente estou gostando muito dessa área, principalmente de JavaScript com seus frameworks/bibliotecas. 😍
+Meu nome é Sônia, sou formada em engenharia civil e atualmente estou seguindo em uma nova área, Desenvolvimento Web. No passado, acabei deixando de lado o interesse que sempre tive por programação, mas nso ultimos tempos decidi fazer essa transição de carreira, na qual sigo estudando e aprofundando cada vez mais meus conhecimentos. Eu realmente estou gostando muito dessa área, principalmente de JavaScript com seus frameworks/bibliotecas. 😍
 
 Gosto muito de colocar em prática o que aprendo e disponibilizo alguns dos meus projetos aqui. Estou aberta para sugestões😄
 
