@@ -13,10 +13,11 @@
 
 # Olá 👋
 
-Meu nome é Sônia Mara, sou formada em engenharia civil e atualmente estou seguindo em uma nova área, Desenvolvimento Web. No passado, acabei deixando de lado o interesse que sempre tive por programação, mas em 2020 decidi fazer essa transição de carreira, na qual sigo estudando e aprofundando cada vez mais meus conhecimentos. Eu realmente estou gostando muito dessa área, principalmente de JavaScript com seus frameworks/bibliotecas 😍. 
-Gosto muito de colocar em prática o que aprendo e disponibilizo alguns dos meus projetos aqui. Estou aberta para sugestões 😄
+Meu nome é Sônia, sou formada em engenharia civil e atualmente estou seguindo em uma nova área, Desenvolvimento Web. No passado, acabei deixando de lado o interesse que sempre tive por programação, mas em 2020 decidi fazer essa transição de carreira, na qual sigo estudando e aprofundando cada vez mais meus conhecimentos. Eu realmente estou gostando muito dessa área, principalmente de JavaScript com seus frameworks/bibliotecas. 😍
 
-Além disso, gosto muito de ouvir música, desenhar, pintar, ler muitos livros e assistir séries/filmes nas horas vagas. Gosto muito de astronomia também, acho o universo fascinante! 🤩
+Gosto muito de colocar em prática o que aprendo e disponibilizo alguns dos meus projetos aqui. Estou aberta para sugestões😄
+
+Além disso, gosto muito de livros, ouvir música, desenhar, pintar e assistir séries/filmes nas horas vagas. Gosto muito de astronomia também, acho o universo fascinante! 🤩
 
 <!--
 **soniamarasa/soniamarasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
