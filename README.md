@@ -1,10 +1,10 @@
 # Sônia Mara de Sá - Web Developer
 <img align="right" width="40%" src="/img/dev.gif" />
 <div > 
-<a target="_blank" href="https://www.linkedin.com/in/soniamarasa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a>
-<a target="_blank" href="https://instagram.com/soniamarasa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a>
-<a target="_blank" href="https://t.me/soniamarasa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> <a>
-<a target="_blank" href="mailto:soniamarasa@outlook.com"><img src="https://img.shields.io/badge/-EMAIL-%238DB473?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> <a>
+<a href="https://www.linkedin.com/in/soniamarasa/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://instagram.com/soniamarasa" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://t.me/soniamarasa" target="_blank" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
+<a href="mailto:soniamarasa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-%238DB473?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> </a>
 </div>
 
 <p> </p>
