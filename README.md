@@ -1,4 +1,4 @@
-<img align="right" width="400" src="/img/dev.gif" />
+<img align="right" width="350" src="/img/dev.gif" />
 
 # Sônia Mara de Sá - Web Developer
 <div> 
