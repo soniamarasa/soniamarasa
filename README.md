@@ -14,7 +14,7 @@
 
 <div align="right"> 
     
-![](https://komarev.com/ghpvc/?username=soniamarasa&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=soniamarasa&color=yellow&style=flat)
     
 </div>
     
@@ -34,9 +34,9 @@
 
 </br>
 
-<div>
-<img  width="57.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soniamarasa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&border_radius=35&hide_border=true"/>
-<img  width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniamarasa&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
+<div align="center">
+<img  width="57%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soniamarasa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&border_radius=35&hide_border=true"/>
+<img  width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniamarasa&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
 </div>
 
  </br>
