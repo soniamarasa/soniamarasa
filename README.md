@@ -47,13 +47,13 @@
 - 🎂 18 de agosto
 - 📌 Niterói/RJ
 - 💼 Desenvolvedora de Front-end na ADV Tecnologia
-- 📚 Atualmente estou estudando Angular, React e Python
+- 📚 Atualmente estudando Angular, React e Python
 - ♥️ Sou apaixonada por música, séries, filmes e livros
 - 🎵 Generos favoritos: Rock, Pop, Indie, MPB, Reggae, Folk, R&B, musica dos anos 50-90's
 - 🎤 Lana Del Rey, AC/DC, Tears For Fears, SZA, The Weeknd, Avenged Sevenfold, The Beatles, Doja Cat, Pearl Jam, Arctic Monkeys... 
-- 📖 Gosto de ler variados generos, sendo os meus favoritos livros sobre: Astronomia, Romance, Espitirita, Fantasia
+- 📖 Gosto de diversos generos, mas meus livros favoritos são sobre: Astronomia, Romance, Espitirita, Fantasia
 - 🎨 Adoro desenhar, pintar nas horas livres, mas sou apenas uma amadora hahaha
-- 🚀 Adoro ler e assistir filmes, documentários relacionados a astronomia, espaço, cosmos... O universo é facinante!🪐
+- 🚀 Adoro ler, assistir filmes e documentários relacionados a astronomia, espaço, cosmos... O universo é facinante!🪐
 - 📺 Minhas séries favoritas são: Grey's Anatomy, Arrow, Atypical, Outlander, Supernatural, Peaky Blinders, Gossip Girl.
 
 
