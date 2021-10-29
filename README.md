@@ -1,10 +1,10 @@
 # Sônia Mara de Sá - Web Developer
 <img align="right" width="40%" src="/img/dev.gif" />
 <div > 
-<a href="https://www.linkedin.com/in/soniamarasa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a>
-<a href="https://instagram.com/soniamarasa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a>
-<a href="https://t.me/soniamarasa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> <a>
-<a href="mailto:soniamarasa@outlook.com"><img src="https://img.shields.io/badge/-EMAIL-%238DB473?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> <a>
+<a target="_blank" href="https://www.linkedin.com/in/soniamarasa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a>
+<a target="_blank" href="https://instagram.com/soniamarasa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a>
+<a target="_blank" href="https://t.me/soniamarasa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> <a>
+<a target="_blank" href="mailto:soniamarasa@outlook.com"><img src="https://img.shields.io/badge/-EMAIL-%238DB473?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> <a>
 </div>
 
 <p> </p>
@@ -21,17 +21,17 @@
 </div>
     
 <div align="center"> 
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
+    <img title="HTML" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+    <img title="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+    <img title="Sass" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+    <img title="Node.Js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    <img title="Angular" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+    <img title="TypeScript"width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img title="React.Js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img title="MongoDB" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+    <img title="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
 </div>
 
 </br>
@@ -50,7 +50,7 @@
 - 📚 Atualmente estudando Angular, React e Python
 - ♥️ Sou apaixonada por música, séries, filmes e livros
 - 🎵 Generos favoritos: Rock, Pop, Indie, MPB, Reggae, Folk, R&B, musica dos anos 50-90's
-- 🎤 Lana Del Rey, AC/DC, Tears For Fears, SZA, The Weeknd, Avenged Sevenfold, The Beatles, Doja Cat, Pearl Jam, Arctic Monkeys... 
+- 🎧 Lana Del Rey, AC/DC, Tears For Fears, SZA, The Weeknd, Avenged Sevenfold, The Beatles, Pearl Jam, Arctic Monkeys... 
 - 📖 Gosto de diversos generos, mas meus livros favoritos são sobre: Astronomia, Romance, Espitirita, Fantasia
 - 🎨 Adoro desenhar, pintar nas horas livres, mas sou apenas uma amadora hahaha
 - 🚀 Adoro ler, assistir filmes e documentários relacionados a astronomia, espaço, cosmos... O universo é facinante!🪐
