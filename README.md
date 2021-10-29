@@ -7,7 +7,7 @@
 <a href="mailto:soniamarasa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-%238DB473?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> </a>
 </div>
 
-<p> </p>
+
 <h4> Olá 👋 </h4>
 <div align="left">
 <p> Sou formada em engenharia civil, mas em 2021 decidi fazer uma transição de carreira para area de Desenvolvimento Web. Não faço ideia do porquê deixei de lado no passado o interesse que sempre tive por programação, mas agora sigo estudando muito e aprofundando cada vez mais meus conhecimentos nessa area. Atualmente estou trabalhando como desenvolvedora de front-end e estou gostando muito! 😍   </p>
