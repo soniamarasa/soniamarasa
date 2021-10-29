@@ -11,8 +11,8 @@
 <p> </p>
 <h4> Olá 👋 </h4>
 <div align="left">
-Sou formada em engenharia civil, mas em 2021 decidi fazer uma transição de carreira para area de Desenvolvimento Web. Não faço ideia do porquê deixei de lado no passado o interesse que sempre tive por programação, mas agora sigo estudando muito e aprofundando cada vez mais meus conhecimentos nessa area, e atualmente estou trabalhando como desenvolvedora de front-end. Estou gostando muito! 😍   
-Gosto muito de colocar em prática o que aprendo e disponibilizo alguns dos meus projetos aqui. Estou aberta para sugestões.😄
+<p> Sou formada em engenharia civil, mas em 2021 decidi fazer uma transição de carreira para area de Desenvolvimento Web. Não faço ideia do porquê deixei de lado no passado o interesse que sempre tive por programação, mas agora sigo estudando muito e aprofundando cada vez mais meus conhecimentos nessa area. Atualmente estou trabalhando como desenvolvedora de front-end e estou gostando muito! 😍   </p>
+<p> Sempre coloco em prática o que aprendo, e disponibilizo alguns dos meus projetos aqui. Seja bem-vindo(a) ☺️ </p>
 </div> 
 
 <div align="right"> 
@@ -34,10 +34,7 @@ Gosto muito de colocar em prática o que aprendo e disponibilizo alguns dos meus
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
 </div>
-    
-    
 
-    
 </br>
 
 <div>
@@ -47,14 +44,10 @@ Gosto muito de colocar em prática o que aprendo e disponibilizo alguns dos meus
 
     
 
-
-
-
-
 - 🎂 18 de agosto
-- 📌 Niterói/RJ (narural de São José do Rio Preto/SP)
+- 📌 Niterói/RJ
 - 💼 Desenvolvedora de Front-end na ADV Tecnologia
-- 📚 Atualmente estou estudando mais sobre Angular, React e Python
+- 📚 Atualmente estou estudando Angular, React e Python
 - ♥️ Sou apaixonada por música, séries, filmes e livros
 - 🎵 Generos favoritos: Rock, Pop, Indie, MPB, Reggae, Folk, R&B, musica dos anos 50-90's
 - 🎤 Lana Del Rey, AC/DC, Tears For Fears, SZA, The Weeknd, Avenged Sevenfold, The Beatles, Doja Cat, Pearl Jam, Arctic Monkeys... 
