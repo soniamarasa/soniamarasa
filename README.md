@@ -1,5 +1,4 @@
 <img align="right" width="350" src="/img/dev.gif" />
-
 # Sônia Mara de Sá - Web Developer
 <div > 
 <a href="https://www.linkedin.com/in/soniamarasa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a>
