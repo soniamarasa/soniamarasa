@@ -35,8 +35,8 @@
 </br>
 
 <div>
-<img  width="57%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soniamarasa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&border_radius=35&hide_border=true"/>
-<img  width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniamarasa&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
+<img  width="57.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soniamarasa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&border_radius=35&hide_border=true"/>
+<img  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniamarasa&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
 </div>
 
  </br>
@@ -45,7 +45,7 @@
 - 🎂 18 de agosto
 - 📌 Niterói/RJ
 - 💼 Desenvolvedora de Front-end na ADV Tecnologia
-- 📚 Atualmente estudando Angular, React e Python
+- 📚 Estudando Angular, React e Python
 - ♥️ Sou apaixonada por música, séries, filmes e livros
 - 🎵 Generos favoritos: Rock, Pop, Indie, MPB, Reggae, Folk, R&B, musica dos anos 50-90's
 - 🎧 Lana Del Rey, AC/DC, Tears For Fears, SZA, The Weeknd, Avenged Sevenfold, The Beatles, Pearl Jam, Arctic Monkeys... 
