@@ -1,4 +1,3 @@
-# Sônia Mara de Sá - Web Developer
 <img align="right" width="40%" src="/img/dev.gif" />
 <div > 
 <a href="https://www.linkedin.com/in/soniamarasa/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -7,10 +6,9 @@
 <a href="mailto:soniamarasa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-%238DB473?style=for-the-badge&logo=microsoftoutlook&logoColor=white"> </a>
 </div>
 
-
-<h4> Olá 👋 </h4>
+# Olá 👋 
 <div align="left">
-<p> Sou formada em engenharia civil, mas em 2021 decidi fazer uma transição de carreira para area de Desenvolvimento Web. Não faço ideia do porquê deixei de lado no passado o interesse que sempre tive por programação, mas agora sigo estudando muito e aprofundando cada vez mais meus conhecimentos nessa area. Atualmente estou trabalhando como desenvolvedora de front-end e estou gostando muito! 😍   </p>
+<p> Meu nome é Sônia, sou formada em engenharia civil, mas em 2021 decidi fazer uma transição de carreira para area de Desenvolvimento Web. Não faço ideia do porquê deixei de lado no passado o interesse que sempre tive por programação, mas agora sigo estudando e aprofundando cada vez mais meus conhecimentos nessa area. Atualmente estou trabalhando como desenvolvedora de front-end e estou gostando muito! 😍   </p>
 <p> Sempre coloco em prática o que aprendo, e disponibilizo alguns dos meus projetos aqui. Seja bem-vindo(a) ☺️ </p>
 </div> 
 
