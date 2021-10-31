@@ -8,7 +8,7 @@
 
 # Olá 👋 
 <div align="left">
-<p> Meu nome é Sônia, sou formada em engenharia civil, mas em 2021 decidi fazer uma transição de carreira para area de Desenvolvimento Web. Não faço ideia do porquê deixei de lado no passado o interesse que sempre tive por programação, mas agora sigo estudando e aprofundando cada vez mais meus conhecimentos nessa area. Atualmente estou trabalhando como desenvolvedora de front-end e estou gostando muito! 😍   </p>
+<p> Meu nome é Sônia, sou formada em engenharia civil e em 2021 decidi fazer uma transição de carreira para area de Desenvolvimento Web. Não faço ideia do porquê deixei de lado no passado o interesse que sempre tive por programação, mas agora sigo estudando e aprofundando cada vez mais meus conhecimentos nessa area. Atualmente estou trabalhando como desenvolvedora de front-end e estou gostando muito! 😍   </p>
 <p> Sempre coloco em prática o que aprendo, e disponibilizo alguns dos meus projetos aqui. Seja bem-vindo(a) ☺️ </p>
 </div> 
 
@@ -51,7 +51,7 @@
 - 🎧 Lana Del Rey, AC/DC, Tears For Fears, SZA, The Weeknd, Avenged Sevenfold, The Beatles, Pearl Jam, Arctic Monkeys... 
 - 📖 Gosto de diversos generos, mas meus livros favoritos são sobre: Astronomia, Romance, Espitirita, Fantasia
 - 🎨 Adoro desenhar, pintar nas horas livres, mas sou apenas uma amadora hahaha
-- 🚀 Adoro ler, assistir filmes e documentários relacionados a astronomia, espaço, cosmos... O universo é facinante!🪐
+- 🚀 Adoro ler, assistir filmes e documentários relacionados a astronomia, espaço, cosmos... O universo é fascinante!🪐
 - 📺 Minhas séries favoritas são: Grey's Anatomy, Arrow, Atypical, Outlander, Supernatural, Peaky Blinders, Gossip Girl.
 
 
