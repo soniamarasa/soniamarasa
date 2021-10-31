@@ -49,7 +49,7 @@
 - ♥️ Sou apaixonada por música, séries, filmes e livros
 - 🎵 Generos favoritos: Rock, Pop, Indie, MPB, Reggae, Folk, R&B, musica dos anos 50-90's
 - 🎧 Lana Del Rey, AC/DC, Tears For Fears, SZA, The Weeknd, Avenged Sevenfold, The Beatles, Pearl Jam, Arctic Monkeys... 
-- 📖 Gosto de diversos generos, mas meus livros favoritos são sobre: Astronomia, Romance, Espitirita, Fantasia
+- 📖 Gosto de diversos generos, mas meus livros favoritos são sobre: Astronomia, Romance, Espírita, Fantasia
 - 🎨 Adoro desenhar, pintar nas horas livres, mas sou apenas uma amadora hahaha
 - 🚀 Adoro ler, assistir filmes e documentários relacionados a astronomia, espaço, cosmos... O universo é fascinante!🪐
 - 📺 Minhas séries favoritas são: Grey's Anatomy, Arrow, Atypical, Outlander, Supernatural, Peaky Blinders, Gossip Girl.
