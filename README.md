@@ -51,8 +51,6 @@
 - 🎧 Lana Del Rey, AC/DC, Tears For Fears, SZA, The Weeknd, Avenged Sevenfold, Amy Winehouse, Adele, The Beatles, Pearl Jam, Arctic Monkeys... 
 - 📖 Gosto de diversos generos, mas meus livros favoritos são sobre: Astronomia, Romance, Espírita, Fantasia, esoterismo, terror.
 - 🎨 Adoro desenhar e pintar nas horas livres
-- 🎴 Tarologa amadora nas horas vagas
+- 🎴 Taróloga amadora nas horas vagas
 - 🚀 Adoro ler,  assistir filmes e documentários relacionados a astronomia, espaço, cosmos... O universo é fascinante!🪐
 - 📺 Minhas séries favoritas são: Grey's Anatomy, Arrow, Atypical, Outlander, Supernatural, Peaky Blinders, Gossip Girl.
-
-
