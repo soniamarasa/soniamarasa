@@ -32,7 +32,7 @@ Aqui no GitHub você vai encontrar projetos práticos, estudos e experimentaçõ
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,sass,ts,angular,react,flutter,mongodb,nodejs,python,mysql,npm,pnpm,yarn,sklearn,googlecolab,postman,insomnia,vscode,notion,cursor,claude,git,github,githubcopilot,chatgpt,gemini,figma,jira,trello&titles=true"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,sass,ts,angular,react,flutter,mongodb,nodejs,python,mysql,npm,pnpm,yarn,sklearn,googlecolab,postman,insomnia,vscode,notion,cursor,claude,git,github,githubcopilot,chatgpt,gemini,figma,jira&titles=true"/>
 </div>
 
 
